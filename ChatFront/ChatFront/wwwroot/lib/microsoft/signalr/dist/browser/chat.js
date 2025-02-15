@@ -1,6 +1,6 @@
 ﻿"use strict";
 
-var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7269/api/Chat/send").build();
+var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7269/chatHub").build();
 
 //Disable the send button until connection is established.
 document.getElementById("sendButton").disabled = true;
@@ -14,6 +14,23 @@ connection.on("ReceiveMessage", function (user, message) {
     li.textContent = `${user} says ${message}`;
 });
 
+connection.on("UserConnected", function (connectionId) {
+    var groupElement = document.getElementById("group");
+    var option = document.createElement("option");
+    option.text = connectionId;
+    option.value = connectionId;
+    groupElement.add(option);
+});
+
+connection.on("UserDisconnected", function (connectionId) {
+    var groupElement = document.getElementById("group");
+    for (var i = 0; i < groupElement.lenght; i++) {
+        if (groupElement.options[i].value == connectionId) {
+            groupElement.remove(i);
+        }
+    }
+});
+
 connection.start().then(function () {
     document.getElementById("sendButton").disabled = false;
 }).catch(function (err) {
@@ -23,8 +40,24 @@ connection.start().then(function () {
 document.getElementById("sendButton").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
     var message = document.getElementById("messageInput").value;
-    connection.invoke("SendMessage", user, message).catch(function (err) {
-        return console.error(err.toString());
-    });
+     
+    var groupElement = document.getElementById("group");
+    var groupValue = groupElement.options[groupElement.selectedIndex].value;
+    
+    if (groupValue === "All" || groupValue === "Myself")
+    {
+        var method = groupValue === "All" ? "SendMessage" : "SendToCaller";
+
+        connection.invoke(method, user, message).catch(function (err) {
+            return console.error(err.toString());
+        });
+    }
+    else
+    {
+        connection.invoke("SendToUser", groupValue,user, message).catch(function (err) {
+            return console.error(err.toString());
+        });
+    } 
+
     event.preventDefault();
 });

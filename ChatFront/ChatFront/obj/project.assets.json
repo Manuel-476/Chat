@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\ChatFront.csproj",
+      "projectUniqueName": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\ChatFront.csproj",
       "projectName": "ChatFront",
-      "projectPath": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\ChatFront.csproj",
+      "projectPath": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\ChatFront.csproj",
       "packagesPath": "C:\\Users\\Smart Entity\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\obj\\",
+      "outputPath": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

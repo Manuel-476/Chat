@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\",
+  "WorkspaceRootPath": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BE09E54-2A34-4D49-9E94-EB9862FBBFC2}|ChatFront\\ChatFront.csproj|c:\\users\\smart entity\\source\\repos\\chatfront\\chatfront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{9BE09E54-2A34-4D49-9E94-EB9862FBBFC2}|ChatFront\\ChatFront.csproj|c:\\users\\smart entity\\documents\\github\\chat\\chatfront\\chatfront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{9BE09E54-2A34-4D49-9E94-EB9862FBBFC2}|ChatFront\\ChatFront.csproj|solutionrelative:chatfront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE09E54-2A34-4D49-9E94-EB9862FBBFC2}|ChatFront\\ChatFront.csproj|c:\\users\\smart entity\\source\\repos\\chatfront\\chatfront\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9BE09E54-2A34-4D49-9E94-EB9862FBBFC2}|ChatFront\\ChatFront.csproj|c:\\users\\smart entity\\documents\\github\\chat\\chatfront\\chatfront\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9BE09E54-2A34-4D49-9E94-EB9862FBBFC2}|ChatFront\\ChatFront.csproj|solutionrelative:chatfront\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "chat.js",
-              "DocumentMoniker": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js",
+              "DocumentMoniker": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js",
               "RelativeDocumentMoniker": "ChatFront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js",
-              "ToolTip": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js",
+              "ToolTip": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js",
               "RelativeToolTip": "ChatFront\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\chat.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-12T08:01:45.633Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ChatFront\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Smart Entity\\source\\repos\\ChatFront\\ChatFront\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\ChatFront\\ChatFront\\Pages\\Index.cshtml",
               "RelativeToolTip": "ChatFront\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:29:23.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T07:29:23.477Z"
             }
           ]
         }

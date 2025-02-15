@@ -1110,8 +1110,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>r5962ustfi</Fingerprint>
-      <Integrity>IRIP6lSk6UX/CU6rK3axWPTqSA69dX66wpoNu2TLNGg=</Integrity>
+      <Fingerprint>uv6u6t3akt</Fingerprint>
+      <Integrity>pndIrQqhwQqNEf+w8xtjfDlbPqZ8p3okrpS7RpV2z3k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\microsoft\signalr\dist\browser\chat.js'))</OriginalItemSpec>

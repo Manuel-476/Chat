@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QCZ6NVek+4M=",
+  "dgSpecHash": "d962RvMkzJw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Smart Entity\\source\\repos\\chat\\chat\\chat.csproj",
+  "projectFilePath": "C:\\Users\\Smart Entity\\Documents\\GitHub\\Chat\\chat\\chat\\chat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smart Entity\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\Smart Entity\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",

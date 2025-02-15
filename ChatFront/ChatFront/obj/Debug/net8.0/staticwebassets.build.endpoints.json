@@ -5019,7 +5019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1250"
+          "Value": "2299"
         },
         {
           "Name": "Content-Type",
@@ -5027,22 +5027,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IRIP6lSk6UX/CU6rK3axWPTqSA69dX66wpoNu2TLNGg=\""
+          "Value": "\"pndIrQqhwQqNEf+w8xtjfDlbPqZ8p3okrpS7RpV2z3k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:47:30 GMT"
+          "Value": "Wed, 12 Feb 2025 19:37:04 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IRIP6lSk6UX/CU6rK3axWPTqSA69dX66wpoNu2TLNGg="
+          "Value": "sha256-pndIrQqhwQqNEf+w8xtjfDlbPqZ8p3okrpS7RpV2z3k="
         }
       ]
     },
     {
-      "Route": "lib/microsoft/signalr/dist/browser/chat.r5962ustfi.js",
+      "Route": "lib/microsoft/signalr/dist/browser/chat.uv6u6t3akt.js",
       "AssetFile": "lib/microsoft/signalr/dist/browser/chat.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5056,7 +5056,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1250"
+          "Value": "2299"
         },
         {
           "Name": "Content-Type",
@@ -5064,21 +5064,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IRIP6lSk6UX/CU6rK3axWPTqSA69dX66wpoNu2TLNGg=\""
+          "Value": "\"pndIrQqhwQqNEf+w8xtjfDlbPqZ8p3okrpS7RpV2z3k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:47:30 GMT"
+          "Value": "Wed, 12 Feb 2025 19:37:04 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r5962ustfi"
+          "Value": "uv6u6t3akt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IRIP6lSk6UX/CU6rK3axWPTqSA69dX66wpoNu2TLNGg="
+          "Value": "sha256-pndIrQqhwQqNEf+w8xtjfDlbPqZ8p3okrpS7RpV2z3k="
         },
         {
           "Name": "label",
